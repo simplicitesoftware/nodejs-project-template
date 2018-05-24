@@ -5,7 +5,8 @@
   "dependencies": {
     "express": "latest",
     "body-parser": "latest",
-    "pug": "latest"
+    "pug": "latest",
+	"simplicite": "latest"
   },
   "engines": {
     "node": "*"
