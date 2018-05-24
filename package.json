@@ -1,0 +1,17 @@
+{
+  "name": "_project_name_",
+  "version": "0.0.1",
+  "description": "Project description",
+  "dependencies": {
+    "express": "latest",
+    "body-parser": "latest",
+    "pug": "latest"
+  },
+  "engines": {
+    "node": "*"
+  },
+  "repository": {
+  },
+  "author": "Simplicite Software <contact@simplicitesoftware.com> (http://www.simplicitesoftware.com/)",
+  "license": "Apache-2.0"
+}
